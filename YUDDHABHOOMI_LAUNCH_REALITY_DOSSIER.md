@@ -10,6 +10,13 @@ Testing included project inspection, gameplay validation and VR runtime testing.
 
 Current assessment indicates the project is in a strong state and suitable for final stabilization and launch preparation.
 
+# PROJECT INFORMATION
+
+Repository Name:
+YUDDHABHOOMI
+
+Repository URL:
+https://github.com/blackholeinfiverse88-spe/Yuddhabhumi
 
 # 1. UNITY PROJECT AUDIT
 
