@@ -1,0 +1,53 @@
+# Meta Quest Beta Checklist
+
+## Build
+
+✓ Android Platform Selected
+
+✓ OpenXR Enabled
+
+✓ Meta XR SDK Installed
+
+✓ ARM64 Enabled
+
+✓ IL2CPP Backend
+
+✓ XR Plug-in Configured
+
+✓ Quest Compatible
+
+---
+
+## Assets
+
+✓ App Icon
+
+✓ Splash Screen
+
+✓ Loading Screen
+
+✓ Controller Support
+
+✓ UI Scaling
+
+---
+
+## Testing
+
+✓ VR Gameplay Tested
+
+✓ Scene Navigation Tested
+
+✓ Audio Tested
+
+✓ Character System Tested
+
+✓ Combat Tested
+
+✓ Performance Reviewed
+
+---
+
+Current Status
+
+Ready for Final Beta Packaging
